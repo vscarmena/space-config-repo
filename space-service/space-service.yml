@@ -1,4 +1,4 @@
-message: Hello by DEFAULT
+message: Hello by DEFAULT --Modified--
 
 management:
   endpoints:
