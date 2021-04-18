@@ -13,12 +13,6 @@ spring:
         dialect: org.hibernate.dialect.MySQL5Dialect
         ddl-auto: create
 
-management:
-  endpoint:
-    web:
-      exposure:
-        include: "*"
-
 logging:
   file:
     name: space-app.log
